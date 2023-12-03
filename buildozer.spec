@@ -1,15 +1,15 @@
 [app]
-<<<<<<< HEAD
 
 # (str) Title of your application
 title = My Application
 
 # (str) Package name
-package.name = ProductApp
+package.name = myapp
 
 # (str) Package domain (needed for android/ios packaging)
 package.domain = org.test
 
+# (str) Source code where the main.py live
 source.dir = .
 
 # (list) Source files to include (let empty to include all the files)
@@ -403,7 +403,6 @@ ios.codesign.allowed = false
 
 # (int) Log level (0 = error only, 1 = info, 2 = debug (with command output))
 log_level = 2
-<<<<<<< HEAD
 
 # (int) Display warning if buildozer is run as root (0 = False, 1 = True)
 warn_on_root = 1
@@ -451,6 +450,3 @@ warn_on_root = 1
 #    Then, invoke the command line with the "demo" profile:
 #
 #buildozer --profile demo android debug
-=======
-warn_on_root = 1
->>>>>>> f8bcc65c0f21d38cccbe59cb18218be9d465d869
