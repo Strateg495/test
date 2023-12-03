@@ -10,12 +10,6 @@ package.name = ProductApp
 # (str) Package domain (needed for android/ios packaging)
 package.domain = org.test
 
-# (str) Source code where the main.py live
-=======
-title = productapp
-package.name = productapp
-package.domain = com.productapp
->>>>>>> f8bcc65c0f21d38cccbe59cb18218be9d465d869
 source.dir = .
 
 # (list) Source files to include (let empty to include all the files)
