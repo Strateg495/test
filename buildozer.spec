@@ -1,7 +1,7 @@
 [app]
-title = foodoptions
-package.name = foodoptions
-package.domain = com.foodoptions
+title = productapp
+package.name = productapp
+package.domain = com.productapp
 source.dir = .
 source.include_exts = py,png,jpg,kv,atlas,ttf,json
 version = 0.1
